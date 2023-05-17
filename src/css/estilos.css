@@ -114,6 +114,17 @@ body{
 .informacoes-abas .descricao span{
     color: blue;
 }
+.neon-heading {
+    color: rgba(250, 250, 250, 0.869);
+    text-shadow: 0 0 5px #050505, 0 0 10px #3700ff, 0 0 15px #000000;
+    font-weight: bold;
+    height: 8vh;
+}
+.informacoes-abas .descricao p{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
 
 .redes-sociais{
     display: flex;
